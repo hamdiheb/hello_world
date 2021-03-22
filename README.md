@@ -24,7 +24,7 @@ Open index.html in an web browser to see the content of the project.
 
 ## Author
 
-👤 **Author1**
+👤 **Iheb Hamdi**
 
 - GitHub: [@githubhandle](https://github.com/hamdiheb)
 - Twitter: [@twitterhandle](https://twitter.com/hamdiheb)
